@@ -1,3 +1,6 @@
 [submodule "customer_api_backend_1"]
 	path = customer_api_backend_1
 	url = https://github.com/anpave10/customer_api_backend_1.git
+[submodule "api-extra-bonus-1"]
+	path = api-extra-bonus-1
+	url = https://github.com/anpave10/api-extra-bonus-1.git
